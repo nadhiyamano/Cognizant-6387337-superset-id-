@@ -1,1 +1,1 @@
-Mandatory Hand-on Exercises
+Mandatory Hands-on Exercises
