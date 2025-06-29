@@ -1,0 +1,6 @@
+Exercise 1: Setting Up JUnit
+
+To set up JUnit in my Java project, I created a Maven-based project and added the JUnit dependency in the pom.xml file. 
+After setting up the project structure, I created a test class with a basic test case using JUnit.
+
+This setup allows me to write and run unit tests effectively using JUnit.

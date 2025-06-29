@@ -1,0 +1,11 @@
+Exercise 4: Arrange-Act-Assert (AAA) Pattern, Test Fixtures, Setup and Teardown in JUnit
+
+In this exercise, I implemented unit tests following the Arrange-Act-Assert (AAA) pattern.
+
+I used @Before to initialize test data before each test, and @After to clean up after each test.
+
+Test cases include basic addition and subtraction using a Calculator class.
+
+The tests verify correctness using assertions like assertEquals.
+
+Code is provided in Calculator.java and CalculatorTest.java.

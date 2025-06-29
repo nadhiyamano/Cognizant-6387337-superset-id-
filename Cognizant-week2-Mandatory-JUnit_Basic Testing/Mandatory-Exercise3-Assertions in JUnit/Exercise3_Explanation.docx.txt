@@ -1,0 +1,10 @@
+Exercise 3: Assertions in JUnit
+
+In this exercise, I wrote unit tests using different JUnit assertions to validate expected outcomes.
+
+Assertions used include:
+- assertEquals to verify equality
+- assertTrue and assertFalse to check conditions
+- assertNull and assertNotNull to validate object references
+
+These assertions ensure the correctness of logic in various test scenarios.

@@ -1,0 +1,5 @@
+Exercise 2: Writing Basic JUnit Tests
+
+I created a simple Calculator class with basic arithmetic methods: add, subtract, multiply, and divide.
+Then, I wrote JUnit test cases to validate each method using various assertions like assertEquals.
+I also included a test to check exception handling for division by zero.
