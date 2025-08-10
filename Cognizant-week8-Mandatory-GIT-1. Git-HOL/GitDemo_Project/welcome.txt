@@ -1,0 +1,2 @@
+Welcome to Git hands-on lab.
+This file is created for demonstration purposes.
